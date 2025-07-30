@@ -1,2 +1,0 @@
-# LibararyNeuron
-Neuron Activation
